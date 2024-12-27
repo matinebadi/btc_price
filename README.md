@@ -4,14 +4,12 @@
 
 **A simple Python script to fetch and display the current price of Bitcoin (BTC) using the CoinGecko API.**
 
----
 
 ## 🚀 Features
 - Fetches **real-time Bitcoin price** in USD.
 - Lightweight and easy to use.
 - Simple, clean code structure.
 
----
 
 ## 📋 Requirements
 Before running the script, make sure you have the following:
@@ -23,7 +21,6 @@ You can install the required library using pip:
 pip install requests
 
 
----
 
 🛠 Usage
 
@@ -43,9 +40,6 @@ python btc_price.py
 current price:-> $27123.45
 
 
-
-
----
 
 📜 Code Explanation
 
@@ -76,7 +70,6 @@ Handles errors gracefully by checking the response status code.
 
 
 
----
 
 📸 Example Output
 
@@ -89,21 +82,19 @@ If there’s an issue (e.g., no internet connection), you’ll see:
 Error in price display.
 
 
----
 
 🤝 Contributions
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements or suggestions.
 
 
----
 
 📝 License
 
 This project is licensed under the MIT License.
 
 
----
+
 
 🌟 Acknowledgments
 
